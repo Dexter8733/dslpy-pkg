@@ -1,0 +1,5 @@
+Package: dslpy-backend
+Version: 1.0-1
+Architecture: all
+Maintainer: Debianuser0
+Description: Installs the dslpy backend script to /bin

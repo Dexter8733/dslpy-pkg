@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ -n "$WAYLAND_DISPLAY" ]; then
+    dslpy_display_session_type="wayland"
+elif [ -n "$DISPLAY" ]; then
+    dslpy_display_session_type="x11"
+else
+    dslpy_display_session_type="none"
+fi
