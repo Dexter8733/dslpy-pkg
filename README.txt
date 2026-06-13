@@ -53,7 +53,7 @@ how to use dslpy-backend
 
 source dslpy-backend
 
-echo "$dslpy_display_session_type
+echo "$dslpy_display_session_type"
 
 if you find issue, feel free to post it in the issue tracker
 
