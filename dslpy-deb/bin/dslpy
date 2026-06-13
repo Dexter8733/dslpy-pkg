@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ -n "$WAYLAND_DISPLAY" ]; then
+    echo "Wayland"
+elif [ -n "$DISPLAY" ]; then
+    echo "X Window System (x11)"
+else
+    echo "None"
+fi

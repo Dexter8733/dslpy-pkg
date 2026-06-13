@@ -1,0 +1,5 @@
+Package: dslpy-deb
+Version: 1.0-1
+Architecture: all
+Maintainer: Debianuser0
+Description: Installs the dslpy shell script to /bin
