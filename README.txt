@@ -24,7 +24,7 @@ sudo nala install ./dslpy-deb.deb
 how to get dslpy backend
 
 first use wget to get the package download from the terminal
-https://github.com/Dexter8733/dslpy-pkg/releases/download/1.0-1/dslpy-backend.deb
+wget https://github.com/Dexter8733/dslpy-pkg/releases/download/1.0-1/dslpy-backend.deb
 
 then install it
 
